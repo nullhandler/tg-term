@@ -1,5 +1,5 @@
 from py_tdlib import Client, Pointer
-from py_tdlib.constructors import *
+from py_tdlib.constructors import getMe
 from Auth import Auth
 from term import Term
 import os
